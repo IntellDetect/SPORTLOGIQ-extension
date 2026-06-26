@@ -1,0 +1,61 @@
+{
+  "manifest_version": 3,
+  "name": "Sportlogiq Tagger Pro by IntellDetect",
+  "version": "0.1.0",
+  "description": "Annotation toolkit",
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "*://app.sportlogiq.com/*",
+    "https://payload-slq.intelldetect.com/*",
+    "https://gateway.intelldetect.com/*"
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "32": "icon32.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://app.sportlogiq.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "payload.js"
+      ],
+      "matches": [
+        "*://app.sportlogiq.com/*"
+      ]
+    }
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self'"
+  },
+  "externally_connectable": {
+    "matches": [
+      "https://gateway.intelldetect.com/*"
+    ]
+  }
+}
