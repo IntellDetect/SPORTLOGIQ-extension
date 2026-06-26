@@ -21,6 +21,10 @@
 2. У вкладці Telegram, що відкриється, натисніть **Start** і поверніться до браузера.
 3. Доступ лише для учасників довірених робочих чатів; інакше — відмова.
 
+*Вхід через Telegram*
+
+<p align="center"><img src="assets/auth-demo.gif" width="50%" alt="Signing in with Telegram" /></p>
+
 ### Використання
 Відкрийте https://app.sportlogiq.com — інструменти вмикаються автоматично після входу. Без чинної сесії розширення не працює;
 якщо сесія завершилася, просто на сторінці з’явиться підказка увійти знову.
@@ -32,6 +36,10 @@
 **Інструменти:**
 - **Розумний зум** — наведіть курсор на відео та крутіть коліщатко миші, щоб наближати/віддаляти; масштаб центрується за курсором. Прокрутіть назад, щоб повернутися до 1×.
 - **Перехоплення клавіатури** — гарячі клавіші платформи працюють за будь-якої розкладки. Друкуйте у своїй розкладці (наприклад, російській/українській) — розширення надсилає відповідну латинську клавішу, тож поєднання спрацьовують без перемикання розкладки. Не діє, поки ви друкуєте в полі введення.
+
+*Розумний зум у дії*
+
+<p align="center"><img src="assets/smart-zoom-demo.gif" width="50%" alt="Smart Zoom in action" /></p>
 
 > ℹ️ Якщо якийсь інструмент заважає, не приносить користі або працює неправильно — його завжди можна
 > вимкнути: натисніть значок **Розширення** (пазл) на панелі Chrome → виберіть **Sportlogiq Tagger Pro** →
@@ -55,6 +63,10 @@
 2. В открывшейся вкладке Telegram нажмите **Start** и вернитесь в браузер.
 3. Доступ только для участников доверенных рабочих чатов; иначе будет отказано.
 
+*Вход через Telegram*
+
+<p align="center"><img src="assets/auth-demo.gif" width="50%" alt="Signing in with Telegram" /></p>
+
 ### Использование
 Откройте https://app.sportlogiq.com — инструменты включаются автоматически после входа. Без действующей сессии расширение не
 работает; если сессия истекла, прямо на странице появится подсказка войти снова.
@@ -66,6 +78,10 @@
 **Инструменты:**
 - **Умный зум** — наведите курсор на видео и крутите колесо мыши, чтобы приближать/отдалять; масштаб центрируется по курсору. Прокрутите колесо обратно, чтобы вернуться к 1×.
 - **Перехват клавиатуры** — горячие клавиши платформы работают при любой раскладке. Печатайте в своей раскладке (например, русской/украинской) — расширение отправляет соответствующую латинскую клавишу, поэтому сочетания срабатывают без переключения раскладки. Не действует, пока вы печатаете в поле ввода.
+
+*Умный зум в действии*
+
+<p align="center"><img src="assets/smart-zoom-demo.gif" width="50%" alt="Smart Zoom in action" /></p>
 
 > ℹ️ Если какой-то инструмент мешает, не приносит пользы или работает неправильно — его всегда можно
 > отключить: нажмите значок **Расширения** (пазл) на панели Chrome → выберите **Sportlogiq Tagger Pro** →
@@ -89,6 +105,10 @@
 2. In the Telegram tab that opens, tap **Start**, then return to the browser.
 3. Access is limited to members of the trusted work chats; otherwise it is denied.
 
+*Signing in with Telegram*
+
+<p align="center"><img src="assets/auth-demo.gif" width="50%" alt="Signing in with Telegram" /></p>
+
 ### Use
 Open https://app.sportlogiq.com — the tools turn on automatically once you are signed in. The extension does nothing without a
 live session; if your session ends, an in-page prompt appears asking you to sign in again.
@@ -100,6 +120,10 @@ master switch turns them all off at once.
 **Tools:**
 - **Smart Zoom** — hover the video and scroll the mouse wheel to zoom in/out; the zoom centres on the cursor. Scroll back to return to 1×.
 - **Keyboard Interception** — the platform's keyboard shortcuts work on any layout. Type in your usual layout (e.g. Russian/Ukrainian) and the matching Latin key is sent, so shortcuts fire without switching layout. Inactive while you type in a text field.
+
+*Smart Zoom in action*
+
+<p align="center"><img src="assets/smart-zoom-demo.gif" width="50%" alt="Smart Zoom in action" /></p>
 
 > ℹ️ If a tool feels annoying, isn't helpful, or doesn't work right, you can always turn it off: click the
 > **Extensions** (puzzle-piece) icon in Chrome's toolbar → choose **Sportlogiq Tagger Pro** → switch that tool
