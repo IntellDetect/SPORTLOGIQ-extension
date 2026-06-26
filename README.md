@@ -16,6 +16,10 @@
 4. Натисніть **Завантажити розпаковане розширення** та виберіть цю папку.
 5. Значок розширення з’явиться на панелі Chrome.
 
+> ⚠️ **Перед входом:** обліковий запис **@a9ent_66** має бути доданий до Telegram-чату вашої команди
+> агентів (того, що разом із вашим Тімлідом), і цей чат має бути **схвалений керівництвом компанії**.
+> Доки цей крок не виконано, вхід через Telegram **не працюватиме**.
+
 ### Вхід
 1. Натисніть на значок розширення → **Login with Telegram**.
 2. У вкладці Telegram, що відкриється, натисніть **Start** і поверніться до браузера.
@@ -58,6 +62,10 @@
 4. Нажмите **Загрузить распакованное расширение** и выберите эту папку.
 5. Значок расширения появится на панели Chrome.
 
+> ⚠️ **Перед входом:** аккаунт **@a9ent_66** должен быть добавлен в Telegram-чат вашей команды агентов
+> (тот, где есть ваш Тимлид), и этот чат должен быть **одобрен руководством компании**. Пока этот шаг
+> не выполнен, вход через Telegram **работать не будет**.
+
 ### Вход
 1. Нажмите на значок расширения → **Login with Telegram**.
 2. В открывшейся вкладке Telegram нажмите **Start** и вернитесь в браузер.
@@ -99,6 +107,10 @@
 3. Enable **Developer mode** (top-right toggle).
 4. Click **Load unpacked** and select this folder.
 5. The extension icon appears in the Chrome toolbar.
+
+> ⚠️ **Before you sign in:** the account **@a9ent_66** must be added to your agents' Telegram chat (the
+> one with your Team Lead), and that chat must be **approved by company management**. Until this step is
+> done, Telegram login **will not work**.
 
 ### Sign in
 1. Click the extension icon → **Login with Telegram**.
