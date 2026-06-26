@@ -39,7 +39,7 @@
 
 ---
 
-## 🇷🇺 Русский
+## ⬜🟦⬜ Русский
 
 **Sportlogiq Tagger Pro** — расширение Chrome для удобной работы на https://app.sportlogiq.com.
 
